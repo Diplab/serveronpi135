@@ -72,7 +72,7 @@ public class Device135 {
 		Endpoint.publish("http://0.0.0.0:9005/webservice/Device135",
 				new Device135());
 
-		System.out.println("open webservice135 Escape");
+		System.out.println("open webservice135");
 
 	}
 
